@@ -1,0 +1,1 @@
+# MongoDB-LLM-Query-Generator
